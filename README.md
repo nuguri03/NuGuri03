@@ -23,6 +23,6 @@
 <br><br>
 
 [![yumin's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sym2596)](https://solved.ac/sym2596)
-![yumin's profile](http://mazandi.herokuapp.com/api?handle=sym2596&theme=dark)
+[![yumin's profile](http://mazandi.herokuapp.com/api?handle=sym2596&theme=dark)](https://solved.ac/sym2596)
 
 </div>
