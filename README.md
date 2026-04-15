@@ -17,12 +17,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuguri03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuguri03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nuguri03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
 <br><br>
 
-[![yumin's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sym2596)](https://solved.ac/sym2596)
-[![yumin's profile](http://mazandi.herokuapp.com/api?handle=sym2596&theme=dark)](https://solved.ac/sym2596)
+[![yumin's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sym2596)](https://solved.ac/sym2596) -->
 
 </div>
